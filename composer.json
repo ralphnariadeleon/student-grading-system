@@ -1,0 +1,17 @@
+{
+    "name": "deleon/gs",
+    "description": "Basic Student Grading System",
+    "type": "n",
+    "license": "\"MIT\",",
+    "autoload": {
+        "psr-4": {
+            "Deleon\\Gs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Deleon R."
+        }
+    ],
+    "require": {}
+}
